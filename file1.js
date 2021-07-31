@@ -5,4 +5,9 @@ let d1 = "abc";
 let e1 = "abc";
 // hello  i am comment...
 // comment 2
+// New comment from branch 2 in file 1
+//
+//
+//
+=======
 // New comment file 1 mai.
