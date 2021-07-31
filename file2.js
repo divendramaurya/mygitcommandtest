@@ -4,4 +4,5 @@ let c2 = "abc";
 let d2 = "abc";
 let e2 = "abc";
 // hello  i am comment...
-// comment 2....
+// New comment from branch 2 in file 1
+//
